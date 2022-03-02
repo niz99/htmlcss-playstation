@@ -18,6 +18,17 @@
     border-radius: 0.6rem !important;
 }
 
-.border_bottom_active{
+.border_bottom_active {
     border-bottom: 1px solid #0d6efd;
+}
+
+#it_takes_two{
+    background-image: url('./../img/it-takes-two-hero-banner-desktop.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.it_takes_two_logo{
+    height: 150px;
 }
