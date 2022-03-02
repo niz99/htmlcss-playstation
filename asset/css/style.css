@@ -22,17 +22,41 @@
     border-bottom: 1px solid #0d6efd;
 }
 
-#it_takes_two{
+#it_takes_two {
     background-image: url('./../img/it-takes-two-hero-banner-desktop.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.it_takes_two_logo{
+.it_takes_two_logo {
     height: 150px;
 }
 
-.m_top{
+.m_top {
     margin-top: 116px;
+}
+
+.ps_plus_logo {
+    height: 80px;
+}
+
+.bg_grey {
+    background-color: rgb(176, 174, 173);
+}
+
+.bg_lightgrey {
+    background-color: rgb(208, 209, 212);
+}
+
+.img_play_plus_diagonal{
+    height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+
+    .img_diagonal {
+        display: none;
+    }
+    
 }
