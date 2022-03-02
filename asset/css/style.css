@@ -1,8 +1,8 @@
-.logo_sony{
+.logo_sony {
     height: 15px;
 }
 
-#hero{
+#hero {
     background-image: url('./../img/jumbo-bg.png');
     background-position: center;
     background-size: cover;
@@ -10,6 +10,10 @@
     height: 70vh;
 }
 
-.returnal_logo{
+.returnal_logo {
     height: 40px;
+}
+
+.rounded-3 {
+    border-radius: 0.6rem !important;
 }
